@@ -1,0 +1,13 @@
+C:\Users\Comp\source\repos\31dec2023\Product management application\bin\Debug\netcoreapp3.1\Product management application.exe
+C:\Users\Comp\source\repos\31dec2023\Product management application\bin\Debug\netcoreapp3.1\Product management application.deps.json
+C:\Users\Comp\source\repos\31dec2023\Product management application\bin\Debug\netcoreapp3.1\Product management application.runtimeconfig.json
+C:\Users\Comp\source\repos\31dec2023\Product management application\bin\Debug\netcoreapp3.1\Product management application.runtimeconfig.dev.json
+C:\Users\Comp\source\repos\31dec2023\Product management application\bin\Debug\netcoreapp3.1\Product management application.dll
+C:\Users\Comp\source\repos\31dec2023\Product management application\bin\Debug\netcoreapp3.1\Product management application.pdb
+C:\Users\Comp\source\repos\31dec2023\Product management application\obj\Debug\netcoreapp3.1\Product management application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\31dec2023\Product management application\obj\Debug\netcoreapp3.1\Product management application.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\31dec2023\Product management application\obj\Debug\netcoreapp3.1\Product management application.AssemblyInfo.cs
+C:\Users\Comp\source\repos\31dec2023\Product management application\obj\Debug\netcoreapp3.1\Product management application.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\31dec2023\Product management application\obj\Debug\netcoreapp3.1\Product management application.dll
+C:\Users\Comp\source\repos\31dec2023\Product management application\obj\Debug\netcoreapp3.1\Product management application.pdb
+C:\Users\Comp\source\repos\31dec2023\Product management application\obj\Debug\netcoreapp3.1\Product management application.genruntimeconfig.cache
